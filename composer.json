@@ -1,5 +1,5 @@
 {
-    "name": "croustibat/filament-jobs-monitor",
+    "name": "adrolli/filament-jobs-monitor",
     "description": "Background Jobs monitoring like Horizon for all drivers for FilamentPHP",
     "keywords": [
         "croustibat",

@@ -1,3 +1,8 @@
+# Moved
+
+This project has moved to https://github.com/mooxphp/moox/
+
+
 # Background Jobs monitoring like Horizon for all drivers for FilamentPHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/croustibat/filament-jobs-monitor.svg?style=flat-square)](https://packagist.org/packages/croustibat/filament-jobs-monitor)
